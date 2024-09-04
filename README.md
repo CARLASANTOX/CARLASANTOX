@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @CARLASANTOX or CARLA SANTOS
-- 🌱 I’m currently learning JavaScript, REACT, HTML, CSS
+-  Hi, I’m @CARLASANTOX or CARLA SANTOS 
+-  I'm currently 20 years old
+-  I'm majoring in Systems Analysis and Development 
+-  I’m learning JavaScript, REACT, HTML, CSS
 
 <!---
 CARLASANTOX/CARLASANTOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
